@@ -16,7 +16,17 @@ Na tabela o campo fileTimestamp, está mesmo em timestamp, após muitas tentativ
 
 
 Complemento5 - António César:
-Projeto maven com Querys feitas e testadas, a funcionar a 100%.
+As seguintes queries funcionam, e podem ser alteradas com diferentes zon as do país.
+cd C:\Users\António César\eclipse-workspace\ES2_ponto5\target
+java -jar Maven_quickstar-0.0.1-SNAPSHOT.jar
+
+Site deve ter separador com link para http://localhost:8082/search (Só funciona se o .jar ja tiver sido executado)
+
+Testar Queries:
+/RDF/NamedIndividual/@*
+//*[contains(@about,'Algarve')]/Testes/text()
+//*[contains(@about,'Algarve')]/Infecoes/text()
+//*[contains(@about,'Algarve')]/Internamentos/text()
 
 Complemento 6 - Ricardo Nunes:
 Em relação a esta aplicação, é retirado as duas noticias mais recentes, para efeitos de comparação, e depois aparece os diferentes valores dos dados de internamentos, infecoes e testes, da região do Alentejo e do Algarve. Para este complemento basta correr a aplicação e será visualizado os dados numa página html.
