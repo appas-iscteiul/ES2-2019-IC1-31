@@ -9,13 +9,12 @@ Grupo31
 Complemento 1 - Pedro Nogueira
 Neste complemento foi criada a estrutura do site, tendo em conta as directrizes dadas pelos professores. Houve dificuldade na colocacao dos ficheioros recebidos dos colegas. E na criacao da imagem para o envio ao professor;
 
+Complemento 2 não foi realizado.
 
-
-Complemento4 - Afonso Alves:
+Complemento 4 - Afonso Alves:
 Na tabela o campo fileTimestamp, está mesmo em timestamp, após muitas tentativas não foi possível alterar para uma date mais "user-friendly". Existem alguns problemas na transposição da aplicação java para outras máquinas. De resto, 100%funcional, mostra todos os gráficos e tem método para fazer pull de todas as tags que vão sendo adicionadas ao repositório.
 
-
-Complemento5 - António César:
+Complemento 5 - António César:
 As seguintes queries funcionam, e podem ser alteradas com diferentes zon as do país.
 cd C:\Users\António César\eclipse-workspace\ES2_ponto5\target
 java -jar Maven_quickstar-0.0.1-SNAPSHOT.jar
