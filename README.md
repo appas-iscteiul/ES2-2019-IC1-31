@@ -28,5 +28,5 @@ Testar Queries:
 //*[contains(@about,'Algarve')]/Internamentos/text()
 
 Complemento 6 - Ricardo Nunes:
-Em relação a esta aplicação, é retirado as duas noticias mais recentes, para efeitos de comparação, e depois aparece os diferentes valores dos dados de internamentos, infecoes e testes, da região do Alentejo e do Algarve. Para este complemento basta correr a aplicação e será visualizado os dados numa página html.
+Em relação a esta aplicação, é retirado as duas noticias mais recentes, para efeitos de comparação, e depois aparece os diferentes valores dos dados de internamentos, infecoes e testes, da região do Alentejo e do Algarve. Para este complemento basta correr a aplicação e será visualizado os dados numa página html, mas devido a problemas com a aplicação .jar só é possivél verificar o resultado no eclipse.
 
